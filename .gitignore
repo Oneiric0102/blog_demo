@@ -3,6 +3,7 @@
 
 ## 추가 ##
 django-env/
+staticfiles/
 
 ### Django ###
 *.log
